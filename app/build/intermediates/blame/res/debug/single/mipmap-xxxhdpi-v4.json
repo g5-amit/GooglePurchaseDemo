@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/E:\\GooglePurchaseDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/E:\\GooglePurchaseDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

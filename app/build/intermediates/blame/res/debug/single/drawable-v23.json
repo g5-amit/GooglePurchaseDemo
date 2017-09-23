@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/E:\\GooglePurchaseDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/E:\\GooglePurchaseDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

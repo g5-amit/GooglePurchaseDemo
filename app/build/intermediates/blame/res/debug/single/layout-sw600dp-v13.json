@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/E:\\GooglePurchaseDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/Users/amit.gupta10/Desktop/Android_Demo_project/GooglePurchaseDemo/E:\\GooglePurchaseDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    }
+]
